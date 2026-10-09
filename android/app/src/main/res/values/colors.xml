@@ -1,0 +1,7 @@
+<resources>
+    <color name="colorPrimary">#344f3b</color>
+    <color name="colorPrimaryDark">#344f3b</color>
+    <color name="colorAccent">#799955</color>
+    <color name="sonora_green">#344f3b</color>
+    <color name="sonora_background">#f7f8f4</color>
+</resources>

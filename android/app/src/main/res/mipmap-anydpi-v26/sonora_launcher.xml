@@ -1,0 +1,5 @@
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@color/sonora_green" />
+    <foreground android:drawable="@drawable/sonora_foreground" />
+    <monochrome android:drawable="@drawable/sonora_foreground" />
+</adaptive-icon>
